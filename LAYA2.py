@@ -6,3 +6,4 @@
 
 print("Hello WORLD!!!")
 print("Salam donya")
+print("Every one in world Die!")
